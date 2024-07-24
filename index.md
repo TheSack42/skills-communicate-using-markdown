@@ -17,3 +17,9 @@ for i in range(i):
   print(arr[i])
 
 ```
+ #### To-Do list for MarkDown
+
+- [x] Include Header
+- [x] Add image
+- [x] Create code snippet
+- [ ] Add To-Do list
